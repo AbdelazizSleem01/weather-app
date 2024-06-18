@@ -110,3 +110,9 @@ line-height: 30px
 .weather{
     display: none;
 }
+
+.country{
+    text-align: center;
+    font-size: 28px;
+
+}
